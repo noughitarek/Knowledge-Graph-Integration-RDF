@@ -5,3 +5,4 @@
 /models/*
 !/models/
 /temp/*
+__pycache__/
