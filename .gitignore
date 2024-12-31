@@ -1,0 +1,7 @@
+/images/*
+!/images/
+/logs/*
+!/logs/
+/models/*
+!/models/
+/temp/*
