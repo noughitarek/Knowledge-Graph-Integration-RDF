@@ -50,11 +50,3 @@ streamlit run ui.py
 
 - **Détection d'objets** : Un téléphone est détecté, il est envoyé à ConceptNet pour récupérer les relations et intégré à GraphDB.
 - **Visualisation RDF** : Le RDF associé aux concepts détectés peut être affiché et exporté.
-
-## Auteurs
-
-- **[Votre Nom]** - Développeur du projet
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
